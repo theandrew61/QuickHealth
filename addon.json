@@ -1,0 +1,11 @@
+{
+	"title": "QuickHealth",
+	"type": "weapon",
+	"tags": ["fun", "realism"],
+	"ignore":
+		[
+			"*.png",
+            "*.DS_Store",
+            "*.db"
+		]
+}
