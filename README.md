@@ -3,7 +3,7 @@ Welcome to QuickHealth
 <img src="http://i.imgur.com/Zx4ZmeQ.png" width="120">
 
 ## Introduction
-There is so much to cover about this addon! First of all, it is [i]my first Garry's Mod workshop upload[/i], hooray!
+There is so much to cover about this addon! First of all, it is *my first Garry's Mod workshop upload*, hooray!
 
 ## What does it do?
 It grants you 10 health when you need it. It's kind of similar to the medkit, except QuickHealth doesn't take long to restore your health.
