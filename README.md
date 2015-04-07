@@ -1,4 +1,4 @@
-Welcome to QuickHealth
+Welcome to QuickHealth!
 ========
 <img src="http://i.imgur.com/Zx4ZmeQ.png" width="120">
 
