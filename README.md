@@ -12,7 +12,7 @@ It grants you 10 health when you need it. It's kind of similar to the medkit, ex
 - it's a **SWEP** that looks like a pistol
 - **NO AMMO!**
 - **admin spawnable** - to prevent cheating
-- works *clientside*, not sure about *mutliplayer* or *TTT*
+- works *clientside*, not sure about *multiplayer* or *TTT*
 - **left click** to give yourself [i]10 health[/i] (also plays [i]power up[/i] sound effect)
 - **reload** to restore all your health (also plays [i]1 UP[/i] sound effect)
 - if the weapon is out and if you fall, you hear a [i]lose your powerup[/i] sound effect
