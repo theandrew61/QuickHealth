@@ -5,7 +5,7 @@ Welcome to QuickHealth!
 ## Official Steam Workshop page
 I'm too lazy to update this README, so you can read all the information [here](http://steamcommunity.com/sharedfiles/filedetails/?id=421216024)!
 
-## Oh, yeah I forgot
+## Oh yeah, I forgot
 QuickHealth is licensed under the MIT License.
 
 The end.
